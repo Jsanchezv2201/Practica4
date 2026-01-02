@@ -1,9 +1,5 @@
-/*
-ESTE ES EL ÚNICO ARCHIVO QUE SE PUEDE MODIFICAR
-*/
 
 package main
-
 import (
 	"bufio"
 	"container/heap"
